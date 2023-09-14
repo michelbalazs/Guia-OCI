@@ -5,7 +5,7 @@
 </p>
 
 ## Guia-Cloud > OCI
-> Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Oracle Cloud, e ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais! 
+> Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Oracle Cloud Infrastructure (OCI), e ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais! 
 
 ## ⚠️ Aviso importante
 
@@ -14,11 +14,11 @@
 ## ⌛ STATUS Serviços Oracle Cloud - [Link Status Serviços OCI](https://ocistatus.oraclecloud.com/#/)
 
 ## 📙 MELHORES PRÁTICAS
-   #### - CAF (Cloud Adoption Framework) - [Link Documentação Oracle](https://www.oracle.com/br/cloud/cloud-adoption-framework/)
-   #### - Convenção de nomenclatura - [Link Definição de nomenclatura Oracle](https://docs.oracle.com/applications/help/pt_BR/enterprise-performance-management/11.2/FDMAD/naming_conventions_open_batch_102x7d6374d4.htm#FDMAD-GUID-216F6C91-DB69-468D-859C-F648E31DE6F6)
+   #### - CAF (Cloud Adoption Framework) - [Link Documentação OCI](https://www.oracle.com/br/cloud/cloud-adoption-framework/)
+   #### - Convenção de nomenclatura - [Link Definição de nomenclatura OCI](https://docs.oracle.com/applications/help/pt_BR/enterprise-performance-management/11.2/FDMAD/naming_conventions_open_batch_102x7d6374d4.htm#FDMAD-GUID-216F6C91-DB69-468D-859C-F648E31DE6F6)
    
 ## 📗 CALCULADORA de Preços Oracle Cloud
-   - [Link Calculadora Oracle Cloud](https://www.oracle.com/br/cloud/costestimator.html)
+   - [Link Calculadora OCI](https://www.oracle.com/br/cloud/costestimator.html)
 
 ## 📘 Treinamentos Oficiais
    - [Link Oracle University](https://education.oracle.com/pt_BR/)
