@@ -9,6 +9,8 @@
 
 ## ⚠️ Aviso importante
 
+A criação desde material foi baseado na ideia do [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
+
 >Em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
 ## ⌛ STATUS Serviços Oracle Cloud - [Link Status Serviços OCI](https://ocistatus.oraclecloud.com/#/)
